@@ -1,0 +1,6 @@
+# synthetic sample: dependencies
+pyyaml
+ruamel.yaml
+google-api-python-client
+google-auth
+google-auth-oauthlib

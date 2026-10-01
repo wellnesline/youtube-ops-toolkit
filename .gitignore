@@ -1,0 +1,23 @@
+# credentials and local state: never commit
+channels/*/secrets/
+secrets/
+.env
+.env.*
+token.json
+client_secret*.json
+last_reauth.json
+*.sqlite
+*.sqlite3
+videos/
+__pycache__/
+.venv/
+
+# added
+*.py[cod]
+.pytest_cache/
+venv/
+out/
+output/
+work/
+*.mp4
+*.mov
